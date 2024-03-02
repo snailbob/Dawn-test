@@ -2,7 +2,7 @@
 theme = "Dawn test"
 store = "flagship-store-test"
 password  = "shptka_d06e255a41df88dc2645ea02e72b0710"
-ignore = "sections/header.liquid"
+ignore = ""
 [environments.env2]
 store = "another-store"
 path = "./dist"
